@@ -60,5 +60,9 @@ Adjust Image Size: Modify the width and height variables to change the canvas si
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
+team members:
+Syed Talha Mian
+Harsh Aryan
+Rishabh Prasad
+Aniket Saxena
                         Thankyou
